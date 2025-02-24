@@ -24,9 +24,9 @@
   
   <h2>📁 Project Structure</h2>
   <p>
-    <strong>notebooks:</strong> Main development environment with the Jupyter Notebook :  <a href="Next_word_predictor_Final.ipynb". <br>
-    <strong>data:</strong> Contains the text dataset used for training :  <a href="Oxford English Text.txt" . <br>
-    <strong>models:</strong> Houses saved checkpoints and model weights after training :  <a href="tokenizer1.pkl" and next_words.karas (file too large to be uploaded on GitHub). <br>
+  <strong>notebooks:</strong> Main development environment with the Jupyter Notebook :  <a href="Next_word_predictor_Final.ipynb". <br>
+  <strong>data:</strong> Contains the text dataset used for training :  <a href="Oxford English Text.txt" . <br>
+  <strong>models:</strong> Houses saved checkpoints and model weights after training :  <a href="tokenizer1.pkl" and next_words.karas (file too large to be uploaded on GitHub). <br>
   </p>
 </body>
 </html>
