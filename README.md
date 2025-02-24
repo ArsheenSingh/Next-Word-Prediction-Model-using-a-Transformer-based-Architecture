@@ -1,9 +1,7 @@
-# Next-Word-Prediction-Model-using-a-Transformer-based-Architecture
+# Next Word Prediction Model using a Transformer based Architecture🚀 
 <!DOCTYPE html>
 <html lang="en">
-<body>
-  <h1>🚀 Next Word Prediction Model</h1>
-  
+<body>  
   <h2>📄 Description</h2>
   <p>
     This project implements a next word prediction model using a transformer-based architecture built with TensorFlow. Trained on the <a href="./data/Oxford_English_Text.txt">Oxford English Text</a> dataset, the model generates contextually relevant word predictions for a given input. It showcases advanced NLP techniques for sequence modeling and text generation.
@@ -27,9 +25,9 @@
   <h2>📁 Project Structure</h2>
   <pre>
 /notebooks
-    Next_word_predictor_Final.ipynb   # Jupyter Notebook with the full model code and training process
+   Next_word_predictor_Final.ipynb   # Jupyter Notebook with the full model code and training process
 /data
-    Oxford_English_Text.txt           # Dataset text file for training the model
+    Oxford English Text.txt           # Dataset text file for training the model
 /models
     (model checkpoints & saved weights)   # Stores trained model artifacts
 /results
