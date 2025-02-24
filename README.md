@@ -1,38 +1,6 @@
 # Next-Word-Prediction-Model-using-a-Transformer-based-Architecture
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>🚀 Next Word Prediction Model Release</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #fdfdfd;
-      color: #333;
-      margin: 2rem;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #222;
-    }
-    pre {
-      background: #eef;
-      padding: 1rem;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      margin-left: 1.5rem;
-    }
-  </style>
-</head>
 <body>
   <h1>🚀 Next Word Prediction Model</h1>
   
