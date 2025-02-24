@@ -23,24 +23,10 @@
   </ul>
   
   <h2>📁 Project Structure</h2>
-  <pre>
-/notebooks
-   Next_word_predictor_Final.ipynb   # Jupyter Notebook with the full model code and training process
-/data
-    Oxford English Text.txt           # Dataset text file for training the model
-/models
-    (model checkpoints & saved weights)   # Stores trained model artifacts
-/results
-    (evaluation metrics & plots)      # Contains output files like accuracy graphs and logs
-/utils
-    (helper scripts)                  # Utility functions for data processing and visualization
-  </pre>
   <p>
-    <strong>/notebooks:</strong> Main development environment with the Jupyter Notebook.<br>
-    <strong>/data:</strong> Contains the text dataset used for training.<br>
-    <strong>/models:</strong> Houses saved checkpoints and model weights after training.<br>
-    <strong>/results:</strong> Includes evaluation outputs and performance plots.<br>
-    <strong>/utils:</strong> Utility scripts for text preprocessing and other helper functions.
+    <strong>notebooks:</strong> Main development environment with the Jupyter Notebook :  <a href="Next_word_predictor_Final.ipynb".<br>
+    <strong>data:</strong> Contains the text dataset used for training :  <a href="Oxford English Text.txt" .<br>
+    <strong>models:</strong> Houses saved checkpoints and model weights after training :  <a href="tokenizer1.pkl" and next_words.karas (file too large to be uploaded on GitHub).<br>
   </p>
 </body>
 </html>
